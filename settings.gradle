@@ -17,3 +17,5 @@ dependencyResolutionManagement {
 rootProject.name = "MaDormz"
 include ':app'
 include ':dorm'
+include ':jetpackcodelab'
+include ':calculatorapp'
